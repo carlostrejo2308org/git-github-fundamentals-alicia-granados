@@ -16,3 +16,7 @@ Carlos Nassif Trejo Garcia
 
 ### Lo que confundo 
 - Se que para contribuir a un repositorio de un usuario hay que mandar el pull request, se me confunde un poco pero si lo se manejar.
+
+### Opinión
+-Estuvo interesante el curso, solo me hubiera gustado que tuviera un ejemplo básico puesto que aveces se nos puede olvidar un comando etc.
+-Sería interesante que nos explique cuando y como usar los conventionals commits ya que está interesante el tema y sería una mejor manera de organizar los proyectos.
